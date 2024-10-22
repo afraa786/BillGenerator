@@ -1,0 +1,16 @@
+----- Invoice -----
+Product: maggi 
+Price: 12.0
+Quantity: 2
+Total: 24.0
+------------------
+Product: buiscuit 
+Price: 13.0
+Quantity: 5
+Total: 65.0
+------------------
+Product: maggi
+Price: 12.0
+Quantity: 2
+Total: 24.0
+------------------
