@@ -2,7 +2,7 @@
 *.class
 
 # Java archives
-*.jar
+# *.jar
 *.war
 *.ear
 
