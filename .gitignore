@@ -1,0 +1,51 @@
+# Compiled class files
+*.class
+
+# Java archives
+*.jar
+*.war
+*.ear
+
+# Log files
+*.log
+
+# IDE specific files
+# Eclipse
+.metadata/
+*.pydevproject
+.project
+.classpath
+.settings/
+bin/
+target/
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+# NetBeans
+nbproject/
+build/
+nbbuild/
+dist/
+*.nb-gradle/
+# Visual Studio Code
+.vscode/
+# Gradle
+.gradle/
+build/
+# Maven
+target/
+
+# Operating System files
+.DS_Store
+Thumbs.db
+*.swp
+*~ 
+
+# Other files
+*.hprof
+*.stackdump
+*.pid
+*.seed
+*.jar.dSYM/
+
